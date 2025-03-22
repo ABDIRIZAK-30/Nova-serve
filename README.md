@@ -100,4 +100,3 @@ NovaServe is an open-source project. Feel free to modify and use it according to
 
 ![Alt text for the image](images/full-page%20img.jpg)
 
-
