@@ -4076,6 +4076,7 @@ html, body {
     
 
     .light-effect {
+        display: none;
         position: absolute;
         width: 700px;
         height: 300px;
