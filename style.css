@@ -32,10 +32,13 @@
 body {
     font-family: "Manrope", sans-serif;
     background-color: #0F0A2B;
-
-
 }
 
+
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
 
 .burger{
     display: none;
@@ -2492,7 +2495,7 @@ body {
             align-items: center;
         }
         
-        .navigation-bar .menu-list .top-btn{
+        .navigation-bar .menu-list .top1-btn{
             margin-right: 60px;
             padding: 0.5rem 6rem;
             border: none;
@@ -2504,12 +2507,15 @@ body {
         }
            
         
-        .navigation-bar .menu-list .top-btn:hover{
+        .navigation-bar .menu-list .top1-btn:hover{
             background-color: rgb(0, 18, 218);
             color: #ffffff;
         }
 
-
+        #top-btn{
+            display: none;
+        }
+ 
         .top-grid {
             width: 100vw;
             height: calc(100vh - 80px);
@@ -4110,7 +4116,7 @@ body {
     align-items: center;
 }
 
-.navigation-bar .menu-list .top-btn{
+.navigation-bar .menu-list .top1-btn{
     margin-right: 60px;
     padding: 0.5rem 6rem;
     border: none;
@@ -4122,11 +4128,14 @@ body {
 }
    
 
-.navigation-bar .menu-list .top-btn:hover{
+.navigation-bar .menu-list .top1-btn:hover{
     background-color: rgb(0, 18, 218);
     color: #ffffff;
 }
 
+#top-btn{
+    display: none;
+}
 
     .top-grid {
         width: 50%;
