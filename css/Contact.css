@@ -650,6 +650,14 @@ textarea::placeholder {
         display: none;
     }
 
+
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
+        display: none;
+    }
+
     .contactUs-grid {
         grid-template-columns: 1fr 1fr;
     }
@@ -699,6 +707,14 @@ textarea::placeholder {
 
     .navigation-bar,
     #top-btn {
+        display: none;
+    }
+
+
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
         display: none;
     }
 

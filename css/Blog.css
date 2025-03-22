@@ -609,6 +609,15 @@ input:hover {
         display: none;
     }
 
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
+        display: none;
+    }
+
+    
+
     /* =========b;og section======== */
 
     .blog--grid {
@@ -690,6 +699,14 @@ input:hover {
 
     .navigation-bar,
     #top-btn {
+        display: none;
+    }
+
+
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
         display: none;
     }
 

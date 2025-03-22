@@ -1343,6 +1343,14 @@ img {
         display: none;
     }
 
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
+        display: none;
+    }
+
+
     .burger {
         display: block;
     }
@@ -1591,6 +1599,14 @@ img {
     #top-btn {
         display: none;
     }
+
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
+        display: none;
+    }
+
 
     .aboutus-hero {
         width: 100%;

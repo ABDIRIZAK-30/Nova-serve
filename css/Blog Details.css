@@ -88,6 +88,8 @@ img {
 }
 
 
+
+
 .top-menu {
     display: flex;
     flex-direction: row;
@@ -563,6 +565,14 @@ img {
         display: none;
     }
 
+
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
+        display: none;
+    }
+
     
     .blog-Details {
         grid-template-columns: 1fr;
@@ -620,6 +630,13 @@ img {
 
     .navigation-bar,
     #top-btn {
+        display: none;
+    }
+
+    #top-btn{
+        display: none;
+    }
+    #top1-btn{
         display: none;
     }
 

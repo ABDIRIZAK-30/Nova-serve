@@ -2551,6 +2551,10 @@ html, body {
         #top-btn{
             display: none;
         }
+        #top1-btn{
+            display: none;
+        }
+ 
  
         .top-grid {
             width: 100vw;
@@ -4208,6 +4212,10 @@ html, body {
 #top-btn{
     display: none;
 }
+#top1-btn{
+    display: none;
+}
+
 
     .top-grid {
         width: 50%;
