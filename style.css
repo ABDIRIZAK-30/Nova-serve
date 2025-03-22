@@ -2431,6 +2431,29 @@ html, body {
 
     @media (min-width:761px) and (max-width:1100px) {
 
+        .light-effect {
+            position: absolute;
+            width: 700px;
+            height: 300px;
+            background: linear-gradient(120deg, rgba(255, 255, 255, 1), rgba(33, 83, 255, 0.5), transparent);
+            filter: blur(40px);
+            mix-blend-mode: overlay;
+            animation: moveLight 7s infinite linear alternate;
+            margin-left: -20rem;
+        }
+        
+        @keyframes moveLight {
+            0% {
+                transform: translate(-50%, -50%) rotate(0deg);
+            }
+        
+            100% {
+                transform: translate(50%, 50%) rotate(20deg);
+            }
+        }
+
+
+
         .burger{
             display: block;
             position: absolute;
@@ -4051,6 +4074,29 @@ html, body {
 @media (min-width:200px) and (max-width:760px) {
 
     
+
+    .light-effect {
+        position: absolute;
+        width: 700px;
+        height: 300px;
+        background: linear-gradient(120deg, rgba(255, 255, 255, 1), rgba(33, 83, 255, 0.5), transparent);
+        filter: blur(40px);
+        mix-blend-mode: overlay;
+        animation: moveLight 7s infinite linear alternate;
+        margin-left: -20rem;
+    }
+    
+    @keyframes moveLight {
+        0% {
+            transform: translate(-50%, -50%) rotate(0deg);
+        }
+    
+        100% {
+            transform: translate(50%, 50%) rotate(20deg);
+        }
+    }
+
+
 .burger{
     display: block;
     position: absolute;
