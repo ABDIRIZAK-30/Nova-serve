@@ -4270,6 +4270,11 @@ html, body {
 
     }
 
+    .price-span{
+        display: none;
+    }
+    
+
     .bottom-badges .happy-customer {
         display: none;
         font-size: 0.5765rem;
@@ -5998,6 +6003,9 @@ border-radius: 50%;
     font-size: 1.3rem;
 }
 
+.price-span{
+    display: none;
+}
 
 
 
