@@ -1,5 +1,7 @@
 # HERO SECTION 
 ![Alt text for the image](images/Hero-section%20.png)
+
+![Alt text for the image](images/mockup.png)
 # NovaServe - Professional Web Service Platform
 
 ## 🌍 Introduction
