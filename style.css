@@ -2431,6 +2431,13 @@ html, body {
 
     @media (min-width:761px) and (max-width:1100px) {
 
+        html, body {
+            overflow-x: hidden;
+            width: 100%;
+        }
+
+        
+
         .light-effect {
             position: absolute;
             width: 700px;
@@ -4073,10 +4080,15 @@ html, body {
 
 @media (min-width:200px) and (max-width:760px) {
 
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+    
     
 
     .light-effect {
-        display: none;
+        /* display: none; */
         position: absolute;
         width: 700px;
         height: 300px;
