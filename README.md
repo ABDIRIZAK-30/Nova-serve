@@ -86,8 +86,8 @@ Although NovaServe currently focuses on front-end development, planned enhanceme
 
 ## 📩 Contact & Support
 For any queries or feedback, reach out via:
-📧 Email: [support@novaserve.com](mailto:support@novaserve.com)
-🌐 Website: [www.novaserveadd.com](https://www.novaserve.com)
+📧 Email: [info@heykaldesigns.com](info@heykaldesigns.com)
+🌐 Website: [novaserve.vercel.app/](https://novaserve.vercel.app/)
 
 
 
