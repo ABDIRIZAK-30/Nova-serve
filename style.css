@@ -2507,6 +2507,8 @@ html, body {
             text-align: center;
             z-index: 1;
             height: 100vh;
+            overflow-x: hidden;
+            width: 100%;
            
         }
         
@@ -2516,6 +2518,8 @@ html, body {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            overflow-x: hidden;
+            width: 100%;
         }
         
         .navigation-bar .menu-list {
@@ -2523,6 +2527,8 @@ html, body {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            overflow-x: hidden;
+            width: 100%;
         }
         
         .navigation-bar .menu-list .top1-btn{
@@ -4167,6 +4173,8 @@ html, body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 .navigation-bar .menu-list {
@@ -4174,6 +4182,8 @@ html, body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 .navigation-bar .menu-list .top1-btn{
@@ -4185,6 +4195,8 @@ html, body {
     background-color: #ffffff;
     color: #000000;
     font-size: 2rem;
+    overflow-x: hidden;
+    width: 100%;
 }
    
 
