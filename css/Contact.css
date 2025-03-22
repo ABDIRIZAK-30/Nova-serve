@@ -40,6 +40,11 @@ body {
     font-family: "Manrope", sans-serif;
 }
 
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
 img {
     width: 100%;
     height: auto;
@@ -543,6 +548,13 @@ textarea::placeholder {
 
 
 @media (min-width: 700px) and (max-width: 1200px) {
+
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+
+
     .box-container {
         width: 95%;
     }
@@ -674,6 +686,13 @@ textarea::placeholder {
 
 
 @media (min-width: 200px) and (max-width: 699px) {
+
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+
+    
     .box-container {
         width: 95%;
     }

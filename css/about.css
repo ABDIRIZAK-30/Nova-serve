@@ -40,6 +40,11 @@ body {
     font-family: "Manrope", sans-serif;
 }
 
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
 img {
     width: 100%;
     height: auto;
@@ -1239,6 +1244,12 @@ img {
 
 @media (min-width: 601px) and (max-width: 1110px) {
 
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+
+
     .box-container {
         width: 95%;
     }
@@ -1479,6 +1490,13 @@ img {
 
 
 @media (min-width: 200px) and (max-width: 600px) {
+
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+
+    
 
 
     .box-container {
